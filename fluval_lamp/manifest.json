@@ -1,0 +1,11 @@
+{
+  "domain": "fluval_lamp",
+  "name": "Fluval Lamp",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/fluval_lamp",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "config_flow": true,
+  "bluetooth": []
+}
